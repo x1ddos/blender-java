@@ -1,0 +1,17 @@
+Human date string to java.util.Date conversion:
+https://github.com/collegeman/stringtotime
+
+Google Cloud Labs:
+http://googcloudlabs.appspot.com/
+
+OAuth for Java:
+https://github.com/fernandezpablo85/scribe-java/wiki/getting-started
+
+QR code generator:
+https://developers.google.com/chart/infographics/docs/qr_codes
+
+Integration with Google Maps:
+https://developers.google.com/maps/location-based-apps
+
+Geocoding:
+https://developers.google.com/maps/documentation/webservices/
